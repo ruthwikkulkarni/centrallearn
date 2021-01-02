@@ -1,0 +1,4 @@
+Git status (used to check whether files are workspace, staging area or in git repo
+Git add test1 (this will move file from workspace to staging area)
+Git status (it will shows changes to be committed)
+Git commit –m ― ― (this will move files from staging area to git repo)
